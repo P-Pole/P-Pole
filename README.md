@@ -1,4 +1,4 @@
-# Hi, I'm Pawel Poleszczuk! 👋
+# Hi, I'm Pawel ! 👋
 
 I'm a Software Developer and a recent Computer Science graduate from the University of Bedfordshire, specializing in Python, Java, and C#. I'm passionate about problem-solving, technology, and continually learning and growing in my skills. 
 
