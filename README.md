@@ -46,7 +46,7 @@ Currently seeking new opportunities, I aim to leverage my knowledge in software 
 
 ## 💼 Skills and Certifications
 
-- Python, Java, C#, SQL
+- Python (Django, Flask), Java, C#, SQL, Docker, REST APIs
 - Cisco CCNA: Introduction to Networks
 - Intermediate Python (DataCamp)
 - Machine Learning for Everyone (DataCamp)
