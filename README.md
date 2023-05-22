@@ -52,6 +52,6 @@ Currently seeking new opportunities, I aim to leverage my knowledge in software 
 - Machine Learning for Everyone (DataCamp)
 - Introduction to Python (DataCamp)
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
 - Apart from being a software developer, I love music and playing on musical instruments. And do not get me started on the topic of chess.
