@@ -14,7 +14,7 @@ Currently seeking new opportunities, I aim to leverage my knowledge in software 
 
 ## 📚 I’m currently learning
 
-- More about Cloud Computing, Microservices, time complexity and efficiency of algorithms. 
+- More about Cloud Computing, Microservices, time complexity and efficiency of algorithms 💪
 
 
 ## 🌱 My Projects
