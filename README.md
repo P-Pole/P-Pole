@@ -19,15 +19,16 @@ Currently seeking new opportunities, I aim to leverage my knowledge in software 
 
 ## 🌱 My Projects
 
-- **React/HTML/CSS Front-End for my Undergraduate Artefact (Helping Hand)**: A case study on microservices-based architecture for small-scale charitable organizations. [Link here](https://github.com/P-Pole/HelpingHand-v2)
-- **Python/Django Gateway for Helping Hand**: A case study on microservices-based architecture for small-scale charitable organizations. [Link here](https://github.com/P-Pole/HelpingHand-Django-Gateway)
-- **Dockerized Django Server for Helping Hand**: A case study on microservices-based architecture for small-scale charitable organizations. [Link here](https://github.com/P-Pole/HelpingHand-Django-Server)
-- **Dockerized Flask Server for Helping Hand**: A case study on microservices-based architecture for small-scale charitable organizations. [Link here](https://github.com/P-Pole/HelpingHand-Flask-Docker-Server)
-- **Animated Elevator Application**: A C# application simulating an elevator system using state design patterns and object-oriented techniques. [Link here](https://github.com/P-Pole/Elevator-Project)
-- **Java Hotel Booking System**: A Java application with a graphical user interface for hotel room bookings. [Link here](https://github.com/P-Pole/Hotel-Booking-System)
-- **Python Taxi Booking System**: A Python application for managing taxi bookings with a fully functional GUI and an SQL-backed database. [Link here](https://github.com/P-Pole/Taxi-Booking-System)
-- **Smiley Game**: A Python application with a GUI for solving numerical puzzles based on JSON data and images. 
-- **AI Image Recognition Optimization**: Improved image recognition accuracy using artificial neural networks and machine learning techniques. 
+- [React/HTML/CSS Front-End for my Undergraduate Artefact (Helping Hand)](https://github.com/P-Pole/HelpingHand-v2): A case study on microservices-based architecture for small-scale charitable organizations.
+- [Python/Django Gateway for Helping Hand](https://github.com/P-Pole/HelpingHand-Django-Gateway): A case study on microservices-based architecture for small-scale charitable organizations.
+- [Dockerized Django Server for Helping Hand](https://github.com/P-Pole/HelpingHand-Django-Server): A case study on microservices-based architecture for small-scale charitable organizations.
+- [Dockerized Flask Server for Helping Hand](https://github.com/P-Pole/HelpingHand-Flask-Docker-Server): A case study on microservices-based architecture for small-scale charitable organizations.
+- [Animated Elevator Application](https://github.com/P-Pole/Elevator-Project): A C# application simulating an elevator system using state design patterns and object-oriented techniques.
+- [Java Hotel Booking System](https://github.com/P-Pole/Hotel-Booking-System): A Java application with a graphical user interface for hotel room bookings.
+- **Python Taxi Booking System**: A Python application for managing taxi bookings with a fully functional GUI and an SQL-backed database.
+- **Smiley Game**: A Python application with a GUI for solving numerical puzzles based on JSON data and images.
+- **AI Image Recognition Optimization**: Improved image recognition accuracy using artificial neural networks and machine learning techniques.
+
 
 ## 💬 Ask me about
 
