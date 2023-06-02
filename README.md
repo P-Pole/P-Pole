@@ -1,6 +1,21 @@
-# Hi, I'm Pawel ! 👋
+<div align="center">
+
+# Hi, I'm Pawel! 👋
 
 I'm a Software Developer and a recent Computer Science graduate from the University of Bedfordshire, specializing in Python, Java, and C#. I'm passionate about problem-solving, technology, and continually learning and growing in my skills. 
+
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/software-developer-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/P-Pole">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github" alt="GitHub">
+  </a>
+</p>
+
+---
 
 Currently seeking new opportunities, I aim to leverage my knowledge in software development to build high-quality systems and contribute to a dynamic team. 
 
